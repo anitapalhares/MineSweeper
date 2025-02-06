@@ -11,6 +11,7 @@ Regras e Objetivos do Jogo
         - O número exibido na célula representa a quantidade de minas nas células adjacentes.
         - Se não houver minas ao redor, as células vizinhas são automaticamente descobertas (recursivamente).
         - O jogador pode marcar células que acredita conterem minas com uma bandeira.
+        
 3  Vencer o Jogo:
         - Todas as células sem minas devem ser reveladas.
-        - O jogador pode usar lógica e dedução para identificar onde estão as minas.
+        - O jogador pode usar lógica e dedução para identificar onde estão as minas
